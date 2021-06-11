@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Summer from './ProfilePages/Home.js';
+import Header from './components/header'
 
-ReactDOM.render(<Summer />, document.getElementById('root'));
+ReactDOM.render(<Header />, document.getElementById("root"))
